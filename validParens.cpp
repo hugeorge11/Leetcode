@@ -1,3 +1,5 @@
+// Check if Parenthesis set is opened and closed properly. Buffer cuts off valid parens set.
+// Easy, stack implementation
 class Solution {
 public:
   map<char, char> rParen;
