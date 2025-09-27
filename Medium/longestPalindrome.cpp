@@ -1,3 +1,7 @@
+// George Hu
+// 9/27
+// Longest PalinDrome Med
+// Solve: Isolate center and while range exists check borders. Do with both double and single char centers
 class Solution {
 public:
     string rv = "";
