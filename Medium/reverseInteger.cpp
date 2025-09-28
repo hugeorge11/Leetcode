@@ -1,7 +1,8 @@
 // George Hu
 // 9/27
 // reverseInteger Medium
-// datatype use of long long instead of int
+// datatype use of long long instead of int. 
+// Queue/Stack pract
 class Solution {
 public:
     long rv = 0;
