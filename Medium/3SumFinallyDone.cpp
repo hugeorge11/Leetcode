@@ -1,7 +1,8 @@
 /*
 George Hu 11/15
 3Sum
-N: Use of find within loop results in nLogn * n instead of the optimal n^2. 
+N: Use of find within loop results in n * n * n instead of the optimal n^2. 
+n for left search, n for (m,t) double pointers, n for find, which is not optimal. 
 manual repeat skipping required to bypass the need for cpp find
 Surprisingly long 
 */
